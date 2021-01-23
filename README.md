@@ -15,12 +15,12 @@ npm run serve
 ```
 
 ## 项目预览
-![](https://github.com/xiefenga/mall-app-admin/tree/main/assets/login.png)
+![](https://xf-blog-imgs.oss-cn-hangzhou.aliyuncs.com/img/20210123161726.png)
 
-![](https://github.com/xiefenga/mall-app-admin/tree/main/assets/list.png)
+![](https://xf-blog-imgs.oss-cn-hangzhou.aliyuncs.com/img/20210123161743.png)
 
-![](https://github.com/xiefenga/mall-app-admin/tree/main/assets/edit.png)
+![](https://xf-blog-imgs.oss-cn-hangzhou.aliyuncs.com/img/20210123161744.png)
 
-![](https://github.com/xiefenga/mall-app-admin/tree/main/assets/add.png)
+![](https://xf-blog-imgs.oss-cn-hangzhou.aliyuncs.com/img/20210123161742.png)
 
-![](https://github.com/xiefenga/mall-app-admin/tree/main/assets/category.png)
+![](https://xf-blog-imgs.oss-cn-hangzhou.aliyuncs.com/img/20210123161741.png)
