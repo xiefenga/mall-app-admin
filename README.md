@@ -15,12 +15,12 @@ npm run serve
 ```
 
 ## 项目预览
-![](./assets/login.png)
+![](https://github.com/xiefenga/mall-app-admin/tree/main/assets/login.png)
 
-![](./assets/list.png)
+![](https://github.com/xiefenga/mall-app-admin/tree/main/assets/list.png)
 
-![](./assets/edit.png)
+![](https://github.com/xiefenga/mall-app-admin/tree/main/assets/edit.png)
 
-![](./assets/add.png)
+![](https://github.com/xiefenga/mall-app-admin/tree/main/assets/add.png)
 
-![](./assets/category.png)
+![](https://github.com/xiefenga/mall-app-admin/tree/main/assets/category.png)
