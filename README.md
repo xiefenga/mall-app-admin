@@ -1,6 +1,6 @@
 # 每日优鲜B端项目
 
-技术栈：vue全家桶 + axios + antd for vue
+技术栈：vue2全家桶 + axios + antd for vue
 
 实现了登录、注册、忘记密码，产品分页获取，编辑、删除、添加，产品类目的编辑、添加、删除。
 
