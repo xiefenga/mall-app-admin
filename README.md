@@ -10,16 +10,15 @@
 
 测试账号：
 
-- customer：1294699027@qq.com
+- customer：`1294699027@qq.com`
 
-- admin：x1294699027@gmail.com
+- admin：`x1294699027@gmail.com`
 
-密码都是 123123
+密码都是 `123123`
 
 ## 启动方式
 
 ```shell
-
 npm install
 
 npm run serve
